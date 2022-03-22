@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Express and MongoDB  
   </p>
 <p align ="center">
-- ⚡ Fun fact: I'm Big Fan of Five Night's at Freddy's
+- ⚡ Fun fact: Ctrl + C and Ctrl + V are my ultimate weapon
 </p>  
 
 <br/>  
