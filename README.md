@@ -1,5 +1,5 @@
 <p align="center">
-  <img src='https://www.linkpicture.com/q/GITHUB.gif'>
+  <img src='https://www.linkpicture.com/q/GITHUB.gif' width="345px">
   </p>
   
   # ***<div align="center">Errors always haunt me</div>***  
@@ -15,7 +15,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<!-- <table><tr><td valign="top" width="33%"> -->
 
 
 
@@ -28,7 +28,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+<!-- </td><td valign="top" width="33%"> -->
 
 
 
