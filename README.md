@@ -1,4 +1,4 @@
-<p align="center">
+<!--  <p align="center">
   <img src='https://www.linkpicture.com/q/GITHUB.gif' width="345px">
   </p>
   
@@ -14,9 +14,6 @@
 <br/>  
 
 
-## My Skill Set  
-<!-- <table><tr><td valign="top" width="33%"> -->
-
 
 
 ### Frontend  
@@ -28,7 +25,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
 </div>
 
-<!-- </td><td valign="top" width="33%"> -->
 
 
 
@@ -41,7 +37,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
+ 
 
 
 
-
+ -->
