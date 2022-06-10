@@ -27,4 +27,4 @@
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiofadlikaakbar&show_icons=true&locale=en&layout=compact" alt="hiofadlikaakbar" /></p> -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiofadlikaakbar&layout=compact&theme=tokyonight"><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hiofadlikaakbar&show_icons=true&theme=tokyonight">
+<img align="left" style="margin-top:8px;" src="https://github-readme-stats.vercel.app/api?username=hiofadlikaakbar&show_icons=true&theme=tokyonight">
