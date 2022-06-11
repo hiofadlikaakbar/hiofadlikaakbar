@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Programming, Editing, Gaming**
 
-- 📫 How to reach me **hioakbar1@gmail.com**
-
 - ⚡ Fun fact **Observe Copy Modification Is My Secret Weapon**
 
 <h3 align="left">Connect with me:</h3>
