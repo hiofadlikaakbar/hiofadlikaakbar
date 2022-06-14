@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Programming, Editing, Gaming**
 
-- ⚡ Fun fact **Observe Copy Modification Is My Secret Weapon**
+- ⚡ Fun fact **I'm a fan of FNAF**
 
 <h3 align="left">My social media</h3>
 <p align="left">
