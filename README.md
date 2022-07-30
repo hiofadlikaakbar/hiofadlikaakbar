@@ -1,16 +1,14 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89866871/172910568-6fc985e3-aaf1-495f-9a3d-d92e207c3f21.gif">
 </p>
-<h2 align="left">About Me 😃</h>
-<h5 align="left">Hi, my name is Hio Fadlika Akbar, a person who likes programming and web design, the first time I liked and entered the programming world because I was a child, I liked playing varmintz games and fiddling with my father's computer, so from that moment I started exploring the cool features in the computer started from trying various features on the computer, downloading games, even almost downloading a dangerous virus. and that's the reason I started to get interested in the world of programming. unique isn't it?</h5>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiofadlikaakbar&label=Profile%20views&color=0e75b6&style=flat" alt="hiofadlikaakbar" /> </p>
+<h1 align="left">About Me</h1>
+<h3 align="left">Hi, my name is Hio Fadlika Akbar, someone who is interested in web design and programming world</h3>
 
 - 🌱 I’m currently learning **Vue**
 
 - 💬 Ask me about **Programming, Editing, Gaming**
 
-- ⚡ Fun fact **I'm a fan of FNAF**
+- ⚡ Fun fact **ATM Is My Favorite Technique**
 
 <h3 align="left">My social media</h3>
 <p align="left">
