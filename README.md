@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/89866871/184500693-e7f349c8-c59b-4918-8903-cec92903e170.gif" width="540px" height="300">
+  <img src="https://user-images.githubusercontent.com/89866871/184500693-e7f349c8-c59b-4918-8903-cec92903e170.gif" width="100%" height="500">
 </p>
 
 **<h1 align="center">Hi guys ✌, my name is Hio Fadlika Akbar</h1>**
