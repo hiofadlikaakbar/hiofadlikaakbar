@@ -8,7 +8,7 @@
 
 <h4>- 🌱 I’m currently learning Vue</h4>
 
-<h4>- 💬 My hobby is Programming, Editing, Gaming</h4>
+<h4>- 💬 I like about Programming, Editing, Gaming</h4>
 
 <h4>- ⚡ Fun fact MGR Is My Favorite Game</h4>
 <br>
