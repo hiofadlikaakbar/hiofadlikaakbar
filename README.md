@@ -8,11 +8,11 @@
 
 <h4>- 🌱 I’m currently learning Vue</h4>
 
-<h4>- 💬 Ask me about Programming, Editing, Gaming</h4>
+<h4>- 💬 My hobby is Programming, Editing, Gaming</h4>
 
 <h4>- ⚡ Fun fact MGR Is My Favorite Game</h4>
 <br>
-<h3 align="left">My social media</h3>
+<h3 align="left">My Social Media</h3>
 <div align="left">
   <a href="https://www.youtube.com/channel/UCKIKWcXXAez8RESKyXrHTgg"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
   
