@@ -3,7 +3,7 @@
 </p>
 
 **<h1 align="center">Hi guys ✌, my name is Hio Fadlika Akbar</h1>**
-<h3 align="center">someone who is interested in web design and programming world</h3>
+<h3 align="center">Someone who is interested in web design and programming world</h3>
 <br>
 
 <h4>- 🌱 I’m currently learning Vue</h4>
