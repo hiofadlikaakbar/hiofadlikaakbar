@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/89866871/184500693-e7f349c8-c59b-4918-8903-cec92903e170.gif" width="100%" height="500">
+  <img src="https://user-images.githubusercontent.com/89866871/190872973-67b753de-c690-43b1-9c33-7db82d5618ca.gif" width="100%" height="500">
 </p>
+
 
 **<h1 align="center">Hi guys ✌, my name is Hio Fadlika Akbar</h1>**
 <h3 align="center">Someone who is interested in web design and programming world</h3>
