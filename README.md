@@ -11,7 +11,7 @@
 
 <h4>- 💬 I like about Programming, Editing, Gaming</h4>
 
-<h4>- ⚡ Fun fact MGR Is My Favorite Game</h4>
+<h4>- ⚡ Fun fact Im a Fans of MGR</h4>
 <br>
 <h3 align="left">My Social Media</h3>
 <div align="left">
