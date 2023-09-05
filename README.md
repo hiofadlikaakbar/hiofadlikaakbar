@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/hiofadlikaakbar/Personal-Web/assets/89866871/88b6935e-b18f-4e7e-862b-0558f13461d2"  />
+<img align="right" height="250" src="https://github.com/hiofadlikaakbar/Personal-Web/assets/89866871/88b6935e-b18f-4e7e-862b-0558f13461d2"  />
 
 ###
 
