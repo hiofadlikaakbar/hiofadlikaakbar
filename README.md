@@ -5,6 +5,7 @@
     width="660"
   />
 </p>
+
 <h1 align="center">Hey, I'm Hio Fadlika Akbar 😺</h1>
 
 <p align="center">
@@ -68,14 +69,20 @@ I like my code **clean**, my UI **simple**, and my UX **honest**.
 
 <br/>
 
-## 💧 Furina
+## 🎮 What I Play Now 🌊
 
-A little dramatic,  
-mostly composed,  
-always trying to look elegant
-even when things get messy.
+Just some games I enjoy when Burnout:
 
-UwaaA ~
+- 🚄 **Honkai: Star Rail**  
+  `UID: 829858911`
+
+- 🌪 **Wuthering Waves**  
+  `UID: 900844452`
+
+- 🌍 **Genshin Impact**  
+  `UID: 1807991087`
+
+<br/>
 
 <br/>
 
@@ -89,7 +96,15 @@ Feel free to reach out anytime.
 
 <br/>
 
+## 💧 Furina
+
+A little dramatic,  
+mostly composed,  
+always trying to look elegant  
+even when things get messy.
+
+UwaaA ~
+
 <p align="center">
   <sub>Confidence, simplicity, and a hint of Fontaine drama.</sub>
 </p>
-
