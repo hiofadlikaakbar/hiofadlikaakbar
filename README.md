@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=hiofadlikaakbar&label=Profile%20views&color=0e75b6&style=flat" alt="hiofadlikaakbar" />
 </p>
 
+
+
 - 🌱 Currently learning **Flutter**
 - 🐳 Working with **Docker** and **Software Engineering**
 - 👨‍💻 All of my projects are available at: **https://github.com/hiofadlikaakbar/**
@@ -17,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/39fa0283-cb01-42f8-9d3a-730e81adf305" alt="express" width="40" height="40"/>
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
@@ -32,14 +34,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/4818c2fd-fd68-4e94-9960-6b8084840d32" alt="vercel" width="40" height="40"/>
   </a>
 </p>
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=hiofadlikaakbar&show_icons=true&theme=dracula&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hiofadlikaakbar&layout=compact&theme=dracula&hide_border=true"/>
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
