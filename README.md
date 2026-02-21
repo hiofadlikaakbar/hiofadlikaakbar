@@ -9,7 +9,6 @@
 
 - 🌱 Currently learning **Flutter**
 - 🐳 Working with **Docker** and **Software Engineering**
-- 👨‍💻 All of my projects are available at: **https://github.com/hiofadlikaakbar/**
 - 💬 Ask me about **Frontend Development, Javascript, Figma, and ERD Workflows**
 - 🎯 Interested in **UI/UX** and **Frontend Designer**
 
