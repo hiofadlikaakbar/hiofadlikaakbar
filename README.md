@@ -1,4 +1,4 @@
-<h1 align="center">I'm Hio Fadlika Akbar</h1>
+<h1 align="center">Hio Fadlika Akbar</h1>
 <h3 align="center">Fullstack Developer</h3>
 
 <p align="left">
